@@ -6,6 +6,7 @@ Just for Practice !
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Nivrutti499/Leetcode/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/Nivrutti499/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -15,6 +16,7 @@ Just for Practice !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nivrutti499/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Nivrutti499/Leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
