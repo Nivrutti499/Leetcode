@@ -21,4 +21,8 @@ Just for Practice !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nivrutti499/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Nivrutti499/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
