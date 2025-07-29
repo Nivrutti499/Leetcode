@@ -24,5 +24,6 @@ Just for Practice !
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nivrutti499/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nivrutti499/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
